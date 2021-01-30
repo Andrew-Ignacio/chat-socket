@@ -1,0 +1,15 @@
+div#messages{
+  box-shadow: 20px 10px 11px 3px rgba(206,206,206,1);
+  border: 1px solid #cecece;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  overflow-x:hidden;
+  overflow-y:visible;
+  height:500px
+
+}
+
+p.message{
+  font-size: 15px;
+}
